@@ -1,0 +1,15 @@
+C:\Users\Администратор\source\repos\Graphic_Editor\Graphic_Editor\bin\Debug\Graphic_Editor.exe.config
+C:\Users\Администратор\source\repos\Graphic_Editor\Graphic_Editor\bin\Debug\Graphic_Editor.exe
+C:\Users\Администратор\source\repos\Graphic_Editor\Graphic_Editor\bin\Debug\Graphic_Editor.pdb
+C:\Users\Администратор\source\repos\Graphic_Editor\Graphic_Editor\obj\Debug\MainWindow.g.cs
+C:\Users\Администратор\source\repos\Graphic_Editor\Graphic_Editor\obj\Debug\App.g.cs
+C:\Users\Администратор\source\repos\Graphic_Editor\Graphic_Editor\obj\Debug\Graphic_Editor_MarkupCompile.cache
+C:\Users\Администратор\source\repos\Graphic_Editor\Graphic_Editor\obj\Debug\Graphic_Editor_MarkupCompile.lref
+C:\Users\Администратор\source\repos\Graphic_Editor\Graphic_Editor\obj\Debug\MainWindow.baml
+C:\Users\Администратор\source\repos\Graphic_Editor\Graphic_Editor\obj\Debug\Graphic_Editor.g.resources
+C:\Users\Администратор\source\repos\Graphic_Editor\Graphic_Editor\obj\Debug\Graphic_Editor.Properties.Resources.resources
+C:\Users\Администратор\source\repos\Graphic_Editor\Graphic_Editor\obj\Debug\Graphic_Editor.csproj.GenerateResource.Cache
+C:\Users\Администратор\source\repos\Graphic_Editor\Graphic_Editor\obj\Debug\Graphic_Editor.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\Graphic_Editor\Graphic_Editor\obj\Debug\Graphic_Editor.exe
+C:\Users\Администратор\source\repos\Graphic_Editor\Graphic_Editor\obj\Debug\Graphic_Editor.pdb
+C:\Users\Администратор\source\repos\Graphic_Editor\Graphic_Editor\obj\Debug\Graphic_Editor.csprojResolveAssemblyReference.cache
